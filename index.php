@@ -1,18 +1,13 @@
+<html>
+<header><title>Mijn demo webapp!</title>
+</header>
+<h2>My DEMO site <br> 
+<br> AZURE Continuous Delivery
+<br> base code
 
-<html>	<html>
- <head>	
- My PHP Site</title>	<head>
- </head> </title>
-
- </title>	
-
- <body>	</head>	 
-
- $name = "Continuous Integration Continuous Deployment";
- echo "CICD stands for, " . $name
-
-<?php 
-?>
-
-</body>
-</html>	</html>
+<br> feature 1
+<br> feature 2
+<br> feature 3
+ 
+</h2>
+</html>
