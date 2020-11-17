@@ -1,7 +1,7 @@
 
 <html>	<html>
  <head>	
-  <title>PHP Test</title>	<head>
+  PHP Test</title>	<head>
  </head>	< title>PHP demosite</title>
  <body>	</head>
  <?php echo '<p>Hello World</p>'; ?> 	
