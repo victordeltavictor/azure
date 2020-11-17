@@ -2,7 +2,7 @@
 <html>	<html>
  <head>	
  My PHP Site</title>	<head>
- </head> < title>
+ </head> </title>
  
  Azure Continuous Delivery</title>
  
