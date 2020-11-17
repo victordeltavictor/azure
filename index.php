@@ -1,8 +1,17 @@
 <html>
- <head>
-  <title>PHP Test</title>
- </head>
- <body>
- <?php echo '<p>Hello World</p>'; ?> 
- </body>
+
+<head>
+< title>PHP demosite</title>
+</head>
+
+<body>
+
+<?php 
+ 
+ $name = "Jake";
+ echo "Hello, " . $name
+  
+?>
+ 
+</body>
 </html>
