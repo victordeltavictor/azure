@@ -3,12 +3,6 @@
  <head>	
  My PHP Site</title>	<head>
  </head> </title>
- 
- Azure Continuous Delivery</title>
- 
- <body>	</head>
- <?php echo '<p>Hello World</p>'; ?> 	
- </body>	<body>
 
 <?php 
 
