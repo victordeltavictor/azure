@@ -1,17 +1,18 @@
-<html>
 
-<head>
-PHP demosite </title>
-</head>
-
-<body>
+<html>	<html>
+ <head>	
+  <title>PHP Test</title>	<head>
+ </head>	< title>PHP demosite</title>
+ <body>	</head>
+ <?php echo '<p>Hello World</p>'; ?> 	
+ </body>	<body>
 
 <?php 
- 
+
  $name = "Jake";
- <br> echo "Hello, " . $name
-  
+ echo "Hello, " . $name
+
 ?>
- 
+
 </body>
-</html>
+</html>	</html>
