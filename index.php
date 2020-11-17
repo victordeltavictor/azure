@@ -2,9 +2,9 @@
 <html>	<html>
  <head>	
  My PHP Site</title>	<head>
- </head>	
+ </head> < title>
  
- < title>Azure Continuous Delivery</title>
+ Azure Continuous Delivery</title>
  
  <body>	</head>
  <?php echo '<p>Hello World</p>'; ?> 	
