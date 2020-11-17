@@ -2,8 +2,8 @@
 <header><title>Mijn demo webapp!</title>
 </header>
 <h2>My DEMO site <br> 
-<br> AZURE Continuous Delivery
-<br> base code
+<br> AZURE Continuous Integration & Delivery!
+<br> base code =>
 
 <br> feature 1
 <br> feature 2
