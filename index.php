@@ -4,17 +4,14 @@
  My PHP Site</title>	<head>
  </head> </title>
 
- Azure Continuous Delivery</title>	
+ </title>	
 
- <body>	</head>	
- <?php echo '<p>Hello World</p>'; ?> 		
- </body>	<body>
-  
-<?php 
+ <body>	</head>	 
 
  $name = "Continuous Integration Continuous Deployment";
  echo "CICD stands for, " . $name
 
+<?php 
 ?>
 
 </body>
