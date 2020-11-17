@@ -1,7 +1,7 @@
 <html>
 
 <head>
-PHP demosite </title> \n
+PHP demosite </title>
 </head>
 
 <body>
