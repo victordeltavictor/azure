@@ -1,16 +1,16 @@
 
 <html>	<html>
  <head>	
-  PHP Test</title>	<head>
- </head>	< title>PHP demosite</title>
+ My PHP Site</title>	<head>
+ </head>	< title>Azure Continuous Delivery</title>
  <body>	</head>
  <?php echo '<p>Hello World</p>'; ?> 	
  </body>	<body>
 
 <?php 
 
- $name = "Jake";
- echo "Hello, " . $name
+ $name = "Continuous Integration Continuous Deployment";
+ echo "CICD stands for, " . $name
 
 ?>
 
