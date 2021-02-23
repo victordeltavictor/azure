@@ -8,14 +8,6 @@
 <br> feature 1
 <br> feature 2
 <br> feature 3
-<br> feature 4
-<br> feature 5
-<br> feature 6
-<br> feature 7
-<br> feature 8
-<br> feature 9
-<br> feature 10
-<br> feature 11
   
 </h2>
 </html>
